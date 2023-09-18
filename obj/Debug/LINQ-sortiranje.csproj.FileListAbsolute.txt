@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.exe.config
+C:\Users\ucenik\source\repos\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.exe
+C:\Users\ucenik\source\repos\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.pdb
+C:\Users\ucenik\source\repos\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.exe
+C:\Users\ucenik\source\repos\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.pdb
